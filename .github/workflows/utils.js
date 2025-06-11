@@ -1,6 +1,5 @@
-function somme(a,b){
-return a + b
+function somme(a, b) {
+  return a + b;
 }
 
-console.log("Résultat :", somme(1,2))
-
+console.log('Résultat :', somme(1, 2));
